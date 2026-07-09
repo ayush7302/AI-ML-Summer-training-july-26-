@@ -8,7 +8,7 @@ from PIL import Image
 # ---------------------------------------------------
 st.set_page_config(
     page_title="COVID-19 Chest X-Ray Detection",
-    page_icon="🩺",
+    page_icon="",
     layout="wide"
 )
 
@@ -83,9 +83,9 @@ st.markdown("---")
 st.header("👨‍💻 Developer Corner")
 
 st.markdown("""
-**Developer:** Vivek Srivastava
+**Developer:** 
 
-🔗 **LinkedIn:** www.linkedin.com/in/vivek-srivastava-0a878a329
+🔗 **LinkedIn:** 
 
-💻 **GitHub:** https://github.com/viveksrivastava045-cyber/covid_19_detection
+💻 **GitHub:**
 """)
